@@ -1,0 +1,24 @@
+body {
+    background-color: #AEAFB7;
+}
+p {
+    font-family: monterrat;
+    color: #564B4A;
+}
+h1, h2, h3 {
+    font-family: monterrat;
+    color: #564B4A;
+    text-align: center;
+}
+nav ul {
+    justify-content: space-evenly;
+    list-style: none;
+    display: flex;
+}
+
+.graphics-section {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
